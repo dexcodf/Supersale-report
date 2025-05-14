@@ -1,0 +1,52 @@
+# 📊 Superstore Sales Dashboard
+
+This repository contains a sales dataset and an interactive Power BI dashboard built to explore and analyze sales performance across various customer segments, product categories, and geographic regions.
+
+## 📁 Contents
+
+- `Sales data.xlsx`: The raw transactional dataset used for analysis.
+- `Sale Report.pbix`: A Power BI report visualizing key insights from the dataset.
+
+## 🔍 Dataset Overview
+
+The dataset includes 9,994 sales records with the following fields:
+
+- **Order Details**: Order ID, Order Date, Ship Date, Ship Mode
+- **Customer Info**: Customer ID, Name, Segment, Region
+- **Product Info**: Product ID, Name, Category, Sub-Category
+- **Sales Metrics**: Sales, Quantity, Discount, Profit
+- **Location Info**: City, State, Postal Code, Country
+
+## 📈 Dashboard Features
+
+The Power BI dashboard includes:
+
+- **Sales Overview**: Total Sales, Profit, Discount, and Quantity metrics
+- **Regional Insights**: Sales by Region, State, and City
+- **Category & Sub-Category Performance**: Drill-down views of sales by category
+- **Customer Segmentation**: Sales trends by Customer Segment
+- **Time Series Analysis**: Sales trends over time
+
+## 🧰 Tools Used
+
+- Microsoft Excel (for data storage)
+- Microsoft Power BI (for data visualization and dashboard development)
+
+## 🚀 Getting Started
+
+To explore the dashboard:
+
+1. Open `Sale Report.pbix` in Microsoft Power BI Desktop.
+2. Use filters and slicers to interact with the visuals.
+
+To work with the dataset:
+
+1. Open `Sales data.xlsx` in Excel or import it into any analysis tool (Excel, Python, R, etc.)
+
+## 📜 License
+
+This project is licensed for educational and non-commercial use.
+
+## 🙋‍♂️ Author
+
+Created by [Your Name]. Contributions and feedback are welcome!
